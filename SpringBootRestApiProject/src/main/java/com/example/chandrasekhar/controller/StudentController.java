@@ -37,7 +37,7 @@ public class StudentController {
 	@PostMapping("/students/add")
 	@ResponseStatus(code = HttpStatus.CREATED)
 	public void createStudent(@RequestBody Student student) {
-		repo.save(student);
+		repo.save(student)
 		
 		
 	}
