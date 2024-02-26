@@ -34,7 +34,7 @@ public class connectiontomysql {
 
      st.close();
 
-     con.close();
+     
  
 	
 	}
