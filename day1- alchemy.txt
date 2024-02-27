@@ -1,0 +1,69 @@
+User stories:-
+
+->A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. 
+->These stories use non-technical language to provide context for the development team and their efforts. After reading a user story,
+  the team knows why they are building, what they're building, and what value it creates. 
+->The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer. 
+  Note that "customers" don't have to be external end users in the traditional sense, they can also be internal customers or 
+  colleagues within your organization who depend on your team.
+->User stories are a few sentences in simple language that outline the desired outcome. They don't go into detail. Requirements are added later, 
+  once agreed upon by the team.
+
+Who:-Anyone can write user stories.
+
+When :-User stories are written throughout the agile project. Usually a story-writing workshop is held near the start of the agile project. 
+Everyone on the team participates with the goal of creating a product backlog that fully describes the functionality to be added over the course of the project 
+
+How:- using user stories format
+
+User stories format :
+
+As a <type of user> i want <goal> so that <Reason>
+
+example for user stories:
+
+As a learner, I want to be able to mark tasks as completed so that I can track my progress.
+
+who :- who is requesting the feature( Ex:- learner)
+what :- what functionality are they looking for(Ex:-marks tasks as completed)
+why :- reason(Ex:-To track my progress) 
+
+ Detail can be added to user stories in two ways:
+     
+     By splitting a user story into multiple, smaller user stories.
+     By acceptance criteria.
+
+Acceptance Criteria:
+--> Acceptance criteria is defined as the conditions that product must meet to be accepted by the product manager for the user story to be complete.
+--> Acceptance criteria do not focus on “how” a solution is reached or “how” something is made. Instead, they illuminate the “what” of the work you are doing
+
+When Should You Write Acceptance Criteria?
+-->the acceptance criteria should be done right before development begins. 
+
+
+how:-
+Two common formats : Scenario oriented format 
+                     Rule oriented format
+1.Scenario oriented format:-
+Scenario- In the first statement, you'll have to write the name of the behaviour you are describing
+Given - This is beginning stage of scenario 
+When - It involves in a particular action that you want the user to make
+Then - This is used to describe the outcome of the third statement  
+
+example:-
+scenario: mark task as completed
+Given: I am logged into the learning platform and viewing my task list.
+When: I click on a specific task that I have completed.
+Then: The task should be visually marked as completed, indicating that I have finished it.
+And: The task should be removed from the active task list if there is a separate section for completed tasks.
+And: The completion status of the task should be saved and persist even if I log out and log back in.
+
+
+2.Rule oriented :-
+
+1.When I view my task list, I can see a checkbox next to each task.
+2.When I click the checkbox, the task is marked as completed and its background color changes to indicate its status.
+3.When I mark a task as completed, it is moved to a separate section of the task list labeled "Completed Tasks".
+4.I can view and retrieve completed tasks from the "Completed Tasks" section if needed.
+
+

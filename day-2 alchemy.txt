@@ -1,0 +1,45 @@
+Scrum:- Scrum is an Agile software development framework that enables a team to communicate and self-organize.
+Scrum is a framework for solving problems and completing tasks in increments. 
+Developers use it to take on complex projects by breaking them into smaller tasks.
+
+Product owner:- A product owner is a role on a Scrum team that is responsible for the project's outcome. 
+The product owner seeks to maximize a product's value by managing and optimizing the product backlog.
+The product owner (PO) or product manager is usually responsible for creating, maintaining, and organizing the product backlog. 
+
+product backlog:- A product backlog is a prioritized list of work for the development team that is derived from the roadmap 
+and its requirements. The most important items are shown at the top of the product backlog so the team knows what to deliver first.
+
+Two R's in product backlog:-
+1.roadmap
+2.requirements
+--> Roadmap initiatives break down into several epics, and each epic will have several requirements and user stories. 
+------------------------------------------------------------------------------------------------------------------------
+Scrum Master: The scrum master is basically the project manager on the team, who keeps track of individual and overall progress 
+and helps the team achieve maximum efficiency within scrum rules. They perform important functions like holding daily standup meetings, 
+hosting sprint planning sessions, assessing team members’ progress. 
+
+Sprint backlog:
+
+A sprint backlog is a subset of the product backlog and lists the work items to complete in one specific sprint. 
+The purpose of the sprint backlog is to identify items from the product backlog that the team will work on during the sprint. 
+This occurs during the sprint planning process.
+
+
+
+Sprint:- A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work.
+
+->A sprint cycle is a repetitive process that the scrum master and the scrum team must follow throughout the course of a sprint. 
+  It consists of five elements in total: sprint planning, daily scrum, sprint review, and sprint retrospective
+
+1.Sprint Planning: The planning session is where the stakeholders and the development team sit together to determine the sprint goal. 
+                   This is also where they figure out how the work will get done by defining the user stories to focus on during this iteration.
+
+2.Daily Scrum: The daily standup is a way for project managers or scrum masters to stay in the loop with all the team members’ activities and progress. 
+               At the start of every day, the project manager holds a standup session where each team member reports on their work so far and 
+               addresses any roadblocks they might have encountered.
+
+3.Sprint Review: During the review session, the agile team showcases their work throughout the sprint to stakeholders and other team members. 
+                 This is the chance to address any discrepancies or disagreements before the work hits production.
+
+4.Sprint Retrospective: At the end of the sprint cycle, the team exchanges ideas about what went right and wrong with the current cycle and
+                        suggests ways to improve on the upcoming sprint. It’s an opportunity to learn from your mistakes and further refine the sprint cycle.
