@@ -1,0 +1,66 @@
+
+Test Plan:-
+
+In software development, a test plan defines your testing team’s test strategy, goals, 
+and scope, which ultimately work together to ensure that all your software components are tested sufficiently before a release. 
+
+Six steps to create an efficient test plan:-
+
+Define the release scope
+Schedule timelines 
+Define test objectives
+Determine test deliverables
+Design the test strategy
+Plan test environment and test data
+
+Define the release scope:-
+-------------------------
+defining the features or functions that need to be included in the release, 
+considering any constraints and dependencies that can affect the release, and determining what type of release it is.
+
+Schedule timelines:- 
+-------------------
+Specify release deadlines to help you decide your testing time and routine.
+
+Define test objectives:-
+------------------------
+A test objective is a reason or purpose for designing and executing a test.
+These objectives ultimately help guide and define the scope of testing activities.
+
+Measure testing with the right metrics:-
+
+->Metrics assess the overall quality of a release, the progress of your testing, 
+and the effectiveness of your testing (for a particular test cycle or the entirety of your testing). 
+
+->They provide visibility into your testing process and overall product quality, 
+ultimately helping your team decide if your release is ready to ship.
+
+-->Defect Density = Defect count/size of the release (lines of code)
+ex:- If your software has 150 defects and 15,000 lines of code, 
+its defect density is 0.01 defects per line of code.
+
+Determine test deliverables:-
+------------------------------
+Test deliverables are the products of testing that help track testing progress. 
+Deliverables should meet your project’s and client’s needs, be identified early enough to be included in the test plan,
+and be scheduled accordingly. 
+
+-> TestRail is test plan software designed to make it easy to follow best practices for test plan development. 
+
+Design the test strategy:-
+----------------------------
+->Identify testing types
+
+Test strategy helps determine test cost, test effort, and which features will be in-scope (planned to be tested) 
+versus out-of-scope (not planned to be tested).
+
+->manual testing:- smoke testing, exploratory testing , usability testing of new features
+->Automation testing:- unit testing, regression testing for existing features, integration testing 
+-> other:- performance testing, sescurity testing, accessability testing
+
+ Plan the test environment and test data:-
+------------------------------------------
+
+Planning a test environment guarantees precise and robust testing. 
+The test environment includes hardware, software, and network configurations for software testing
+
